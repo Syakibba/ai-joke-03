@@ -1,0 +1,1 @@
+My AI agent finished in 4 seconds, then spent 3 hours confidently fixing the bug it introduced in line 1.
